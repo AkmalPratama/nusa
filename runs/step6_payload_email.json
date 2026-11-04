@@ -1,0 +1,17 @@
+{
+  "tool": "mock_email",
+  "action": 1,
+  "approval_ref": "AP-A-2026-1105-001-01",
+  "from": "authenticated-session-user@nusantaradigital.co.id",
+  "from_note": "Sender resolved from the authenticated account of the approving user — Nusa never invents a sender identity.",
+  "to": [
+    {
+      "name": "Budi Santoso",
+      "email": "budi.santoso@nusantaradigital.co.id"
+    }
+  ],
+  "cc": [],
+  "subject": "Notulen Rapat — Koordinasi Supplier, 3 November 2026",
+  "body": "Kepada Bapak Budi Santoso,\n\nBerikut notulen rapat koordinasi supplier tanggal 3 November 2026.\n\nPESERTA\n- Agus Wijaya (Procurement), Hendra Gunawan (Operations),\n  Intan Permata (Finance)\n\nPOIN DISKUSI\n1. Pak Budi melaporkan pengiriman stok ke gudang Makassar\n   terlambat bulan lalu karena pihak supplier mengubah jadwal\n   pengiriman tanpa pemberitahuan.\n2. Rekonsiliasi invoice Oktober masih menunggu dua dokumen\n   dari supplier.\n3. Hendra mengusulkan rapat lanjutan dengan supplier untuk\n   memfinalisasi jadwal pengiriman baru dan memperbaiki alur\n   dokumen.\n\nKEPUTUSAN\n1. Tim sepakat memformalkan jadwal pengiriman baru dengan\n   supplier sebelum akhir bulan.\n\nTINDAK LANJUT\n1. Notulen didistribusikan ke pihak terkait.\n2. Rapat lanjutan dijadwalkan pekan ini untuk penyelarasan\n   dengan supplier.\n\nTerima kasih.\n\nHormat kami,\n[Ditulis atas nama pengguna terautentikasi — sent via Nusa on behalf of the approving user]",
+  "source_quote": "Tolong kirim notulen ke\nPak Budi ya, terus jadwalin follow-up Jumat siang."
+}

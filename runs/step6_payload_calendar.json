@@ -1,0 +1,19 @@
+{
+  "tool": "mock_calendar",
+  "action": 2,
+  "approval_ref": "AP-A-2026-1105-001-01",
+  "organizer": "authenticated-session-user@nusantaradigital.co.id",
+  "organizer_note": "Organizer resolved from the authenticated account of the approving user.",
+  "title": "Follow-up: Supplier delivery schedule (Koordinasi Supplier)",
+  "start": "2026-11-06T14:00:00+07:00",
+  "end": "2026-11-06T14:30:00+07:00",
+  "timezone": "Asia/Jakarta (WIB)",
+  "participants": [
+    {
+      "name": "Budi Santoso (Finance Manager, Jakarta)",
+      "email": "budi.santoso@nusantaradigital.co.id"
+    }
+  ],
+  "location": "Google Meet (auto-generated link)",
+  "source_quote": "Pak Budi ya, terus jadwalin follow-up Jumat siang."
+}
