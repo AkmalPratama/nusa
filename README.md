@@ -48,6 +48,16 @@ agent architecture, the six production prompts (Orchestrator, Interpreter,
 Clarifier, Planner, Validator, Approval Gate / Executor), example-test
 walkthroughs, and the submission checklist.
 
+## Live Demo
+
+Try the interactive pipeline demo (bonus project link):
+
+**https://a18b9216fa13556de.apps.workbuddy.host/?sharecode=WLM3UAMUVB**
+
+Paste a meeting note (or pick a sample) and walk through Interpreter →
+Clarifier → confirmation card → mock execution with the live audit ledger.
+Try replying "ok" on the approval step — it will be refused.
+
 ## Collaboration
 
 - `main` is protected by convention — please work on feature branches
