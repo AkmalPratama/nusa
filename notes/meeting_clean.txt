@@ -1,0 +1,27 @@
+MEETING NOTES — Weekly Product Sync (Sinkronisasi Produk Mingguan)
+Date: Selasa, 3 November 2026, 10:00-11:00 WIB
+Location: Ruang Rapat Nusantara / Google Meet
+Attendees: Siti Rahmawati (HR), Dewi Lestari (Product), Rizky Pratama (Engineering), Maya Anggraini (Marketing)
+
+AGENDA & DISCUSSION
+1. Q4 campaign preparation — Maya reported the campaign brief is 80% done;
+   it still needs the final budget numbers from Finance before publishing.
+2. Website revamp — Rizky said the staging site is ready for review.
+   Dewi will collect feedback from the team this week.
+3. Office equipment budget — Siti reminded everyone that the budget
+   submission deadline is end of this month (30 November).
+
+DECISIONS
+D1. The Q4 campaign launches on 20 November 2026, after Finance confirms
+    the final numbers.
+D2. The website revamp goes live on 16 November 2026.
+
+ACTION ITEMS
+A1. Dewi Lestari to collect website feedback from all team members by
+    Friday, 6 November 2026, 17:00 WIB.
+A2. Maya Anggraini to email the final campaign brief to Siti Rahmawati
+    by Thursday, 5 November 2026.
+A3. Rizky Pratama to deploy the revamped website to production on
+    16 November 2026.
+
+— Notes typed by Dewi Lestari. Sekian, terima kasih!

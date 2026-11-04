@@ -1,0 +1,35 @@
+{
+  "company": "PT Nusantara Digital",
+  "office_hours": {
+    "start": "09:00",
+    "end": "17:00",
+    "note": "Local time of each employee's city"
+  },
+  "friday_prayer_window": {
+    "day": "friday",
+    "start": "11:30",
+    "end": "13:00",
+    "note": "Never schedule meetings in this window (local time). Propose before or after."
+  },
+  "public_holidays": [
+    { "date": "2026-12-25", "name": "Christmas Day (Hari Raya Natal)" },
+    { "date": "2026-12-26", "name": "Joint Leave (Cuti Bersama)" },
+    { "date": "2027-01-01", "name": "New Year (Tahun Baru)" },
+    { "date": "2027-01-02", "name": "Joint Leave (Cuti Bersama)" }
+  ],
+  "public_holidays_note": "November 2026 has no national public holidays in Indonesia. The nearest upcoming holidays are listed above.",
+  "internal_email_domains": [
+    "nusantaradigital.co.id"
+  ],
+  "external_recipient_policy": "Any recipient whose email domain is NOT in internal_email_domains is EXTERNAL and the action must be flagged IMPACT: HIGH (extra confirmation required).",
+  "timezones": {
+    "WIB": "UTC+7 — Jakarta, Bandung, Semarang, Yogyakarta, Surabaya",
+    "WITA": "UTC+8 — Makassar, Denpasar",
+    "WIT": "UTC+9 — Jayapura"
+  },
+  "meeting_policy": {
+    "min_notice_hours": 2,
+    "default_duration_minutes": 30,
+    "cross_timezone_rule": "Show the proposed time in EVERY attendee's local time zone."
+  }
+}
