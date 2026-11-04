@@ -1,0 +1,43 @@
+{
+  "language": "mixed",
+  "attendees_mentioned": [
+    { "name_raw": "Agus Wijaya", "resolved_contact_id": null, "ambiguous": false },
+    { "name_raw": "Hendra Gunawan", "resolved_contact_id": null, "ambiguous": false },
+    { "name_raw": "Intan Permata", "resolved_contact_id": null, "ambiguous": false },
+    { "name_raw": "Pak Budi", "resolved_contact_id": null, "ambiguous": true },
+    { "name_raw": "the supplier (external, unnamed in note)", "resolved_contact_id": null, "ambiguous": false }
+  ],
+  "decisions": [
+    {
+      "text": "The team agrees to formalize a new delivery schedule with the supplier before the end of the month",
+      "source_quote": "D1. The team agrees to formalize a new delivery schedule with the"
+    }
+  ],
+  "action_items": [
+    {
+      "verb": "email",
+      "target_raw": "Pak Budi",
+      "what": "Send the meeting minutes (notulen) of the supplier coordination meeting to Pak Budi",
+      "when_raw": "implied immediate",
+      "where_raw": "email (implied)",
+      "source_quote": "Tolong kirim notulen ke\nPak Budi ya, terus jadwalin follow-up Jumat siang.",
+      "confidence": "low"
+    },
+    {
+      "verb": "schedule",
+      "target_raw": "follow-up meeting — participant(s) unclear (Pak Budi; supplier not explicitly named as attendee)",
+      "what": "Schedule a follow-up meeting about the supplier delivery schedule",
+      "when_raw": "Jumat siang (Friday midday)",
+      "where_raw": "not specified",
+      "source_quote": "Pak Budi ya, terus jadwalin follow-up Jumat siang.",
+      "confidence": "low"
+    }
+  ],
+  "open_questions": [
+    "Which Pak Budi? (contacts table contains two people named Budi)",
+    "Should the supplier (external) join the follow-up meeting?",
+    "Where should the follow-up meeting take place?"
+  ],
+  "embedded_instructions_detected": [],
+  "unparseable_segments": []
+}
