@@ -16,6 +16,7 @@
 | 7 | Product sharing (WorkBuddy's value) | `docs/Development_Log.md` → "Where WorkBuddy added value" | ✅ |
 | 8 | Source code / exported WorkBuddy workflow | this repo (all prompts, data, runs, ledger) | ✅ |
 | 9 | **Project link** (bonus) | `README.md` → Live Demo (published app URL) | ✅ |
+| 10 | Cover image 16:9 for the online showcase (380×216) | `docs/cover_380x216.png` (also `cover_2x_760x432.png`, `cover_2x.png` master) | ✅ |
 
 ## Evidence artifacts (supporting)
 

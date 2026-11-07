@@ -2,6 +2,8 @@
 
 > Meeting notes to safe, approved action items.
 
+![Nusa — Meeting to Action Office Agent](docs/cover_2x_760x432.png)
+
 **Challenge B · The Office Agent · Scenario: Meeting to Action**
 AI CAN DO IT — Tencent Cloud Hackathon Indonesia 2026, built on Tencent Cloud WorkBuddy.
 
