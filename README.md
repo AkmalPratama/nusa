@@ -68,6 +68,7 @@ full requirement → artifact index):
 | Item | File |
 |---|---|
 | Prompt design kit (architecture + prompts) | `docs/Nusa_Prompt_Design.md` |
+| Architecture diagram (trust boundaries, 1 page) | `docs/Nusa_Architecture_Diagram.pdf` |
 | Architecture deck (8 slides, trust boundaries) | `docs/Nusa_Architecture_Presentation.pdf` |
 | **Accountability sheet** (trust contract, 1-pager) | `docs/Accountability_Sheet.md` · `docs/Accountability_Sheet.pdf` |
 | Test results (10/10, with screenshot checklist) | `tests/tests.md` |

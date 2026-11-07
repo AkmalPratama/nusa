@@ -11,7 +11,7 @@
 | 2 | Project description (incl. prompt-design section) | `docs/Project_Description.md`; design doc §1–3 | ✅ |
 | 3 | **Accountability sheet** (new required item) | `docs/Accountability_Sheet.md` (+ PDF one-pager) | ✅ |
 | 4 | Test results with screenshots | `tests/tests.md` (10/10 PASS, verbatim evidence, screenshot checklist) | ✅ |
-| 5 | Architecture diagram **with trust boundaries** | `docs/Nusa_Architecture_Presentation.pdf` (slides 3–4) | ✅ |
+| 5 | Architecture diagram **with trust boundaries** | `docs/Nusa_Architecture_Diagram.pdf` (1-page diagram) · `docs/Nusa_Architecture_Presentation.pdf` (8-slide deck) | ✅ |
 | 6 | Demo video 5–8 min (≥1 refusal/clarification/approval-wait) | `docs/Demo_Video_Script.md` (script; video to be recorded) | 🟡 script ready |
 | 7 | Product sharing (WorkBuddy's value) | `docs/Development_Log.md` → "Where WorkBuddy added value" | ✅ |
 | 8 | Source code / exported WorkBuddy workflow | this repo (all prompts, data, runs, ledger) | ✅ |
