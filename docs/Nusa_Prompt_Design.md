@@ -259,15 +259,15 @@
 
 | Item | Status |
 |---|---|
-| Project title + blurb <10 words | ✅ drafted above |
-| Project description (incl. prompt design section) | ✅ sections 1–3 above are the skeleton |
-| Accountability sheet | ✅ section 6 template |
-| Test results w/ screenshots | build against sample data at kickoff |
-| Architecture diagram w/ trust boundaries | ✅ section 2 |
-| Demo video 5–8 min (must show one refusal/clarification/approval wait) | script Test 1 + Test 2 |
-| Product sharing (WorkBuddy value) | note where skills/orchestration helped |
-| Source code / exported WorkBuddy workflow | export from WorkBuddy |
-| Project link (bonus) | publish a demo UI via WorkBuddy's app publishing |
+| Project title + blurb <10 words | ✅ `docs/Project_Description.md` (7-word blurb) |
+| Project description (4 sections) | ✅ `docs/Project_Description.md` |
+| Accountability sheet (required, 4-quadrant) | ✅ `docs/Accountability_Sheet.md` + `Accountability_Sheet.pdf` |
+| Test results w/ screenshots | ✅ `tests/tests.md` (10/10 PASS + screenshot checklist) |
+| Architecture diagram w/ trust boundaries | ✅ `docs/Nusa_Architecture_Presentation.pdf` (slides 3–4) |
+| Demo video 5–8 min (≥1 refusal/clarification/approval-wait) | ✅ script `docs/Demo_Video_Script.md` (video to record) |
+| Product sharing (WorkBuddy value) | ✅ `docs/Development_Log.md` → "Where WorkBuddy added value" |
+| Source code / exported WorkBuddy workflow | ✅ this repo (prompts, data, runs, ledger, app) |
+| Project link (bonus) | ✅ published demo app (README → Live Demo) |
 
 ---
 

@@ -1,6 +1,6 @@
 # Nusa — Meeting to Action Office Agent
 
-> Turns meeting notes into minutes, action items, and follow-ups — safely.
+> Meeting notes to safe, approved action items.
 
 **Challenge B · The Office Agent · Scenario: Meeting to Action**
 AI CAN DO IT — Tencent Cloud Hackathon Indonesia 2026, built on Tencent Cloud WorkBuddy.
@@ -57,6 +57,25 @@ Try the interactive pipeline demo (bonus project link):
 Paste a meeting note (or pick a sample) and walk through Interpreter →
 Clarifier → confirmation card → mock execution with the live audit ledger.
 Try replying "ok" on the approval step — it will be refused.
+
+## Submission Materials
+
+All required hackathon deliverables live in this repo (see `docs/Submission_Package.md` for the
+full requirement → artifact index):
+
+| Item | File |
+|---|---|
+| Prompt design kit (architecture + prompts) | `docs/Nusa_Prompt_Design.md` |
+| Architecture deck (8 slides, trust boundaries) | `docs/Nusa_Architecture_Presentation.pdf` |
+| **Accountability sheet** (trust contract, 1-pager) | `docs/Accountability_Sheet.md` · `docs/Accountability_Sheet.pdf` |
+| Test results (10/10, with screenshot checklist) | `tests/tests.md` |
+| Demo video script (5–8 min) | `docs/Demo_Video_Script.md` |
+| Project description (form-ready, 4 sections) | `docs/Project_Description.md` |
+| Submission package index | `docs/Submission_Package.md` |
+| Development log (evidence of use) | `docs/Development_Log.md` |
+| Live demo (bonus project link) | [README → Live Demo](#live-demo) |
+
+**Short blurb:** *Meeting notes to safe, approved action items.*
 
 ## Collaboration
 
